@@ -22,6 +22,7 @@
     "ORAS",
     "postgres",
     "postico",
+    "resultvalue",
     "UCCI"
   ],
   "editor.bracketPairColorization.enabled": true,

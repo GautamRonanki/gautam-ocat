@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+form{
+  width: 70% !important;
+  margin: auto;
+}
+
+table{
+  width: 100%;
+  text-align: center;
+}
+
+thead{
+  background: white !important;
+  border: solid black !important;
+  color: black !important;
+  font-weight: bold !important;
+}
+
+tbody{
+  background: white !important;
+  border: solid black !important;
+  color: black !important;
+  padding: 10px !important;
+}
+
+tbody button{
+  background: #f44336 !important;
+  color: white !important;
+  border: none !important;
+  padding: 5px !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+}
